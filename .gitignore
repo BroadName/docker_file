@@ -1,0 +1,9 @@
+/.idea/
+/static
+/db.sqlite3
+.DS_Store
+/venv/
+/__pycache__/
+/logistic/__pycache__/
+/stocks_products/__pycache__/
+/logistic/migrations/__pycache__/
